@@ -45,6 +45,7 @@
     "react-ace": "14.0.1",
     "react-dom": "19.1.0",
     "react-dropzone": "14.3.8",
+    "react-grab": "^0.0.18",
     "react-i18next": "13.2.2",
     "react-markdown": "8.0.6",
     "react-router-dom": "6.16.0",
