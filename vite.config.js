@@ -77,7 +77,7 @@ export default defineConfig({
         skipWaiting: true,
         cleanupOutdatedCaches: true,
         navigateFallback: 'index.html',
-        navigateFallbackDenylist: [/^\/api/, /^\/_\(.*\)/],
+        navigateFallbackDenylist: [/^\/api/, /^\/_(.*)/],
         maximumFileSizeToCacheInBytes: 6000000,
         runtimeCaching: [
           // Fix index.html not refreshing on new versions
