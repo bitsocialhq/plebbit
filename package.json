@@ -1,7 +1,7 @@
 {
-  "name": "Seedit",
-  "version": "0.5.10",
-  "description": "A bitsocial client with a old.reddit UI",
+  "name": "Plebbit",
+  "version": "0.1.0",
+  "description": "A serverless, adminless, decentralized reddit alternative",
   "author": "Bitsocial Labs",
   "type": "module",
   "license": "GPL-2.0-only",
